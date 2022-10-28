@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00a22093-8c8b-4f95-b4ce-c9703d5a18fc" name="Changes" comment="text101 starter files">
+    <list default="true" id="00a22093-8c8b-4f95-b4ce-c9703d5a18fc" name="Changes" comment="text changes in code">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.3.Text101/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.3.Text101/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AdventureGame.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AdventureGame.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +15,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/AdventureGame.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/State.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -75,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666929236886</updated>
-      <workItem from="1666929245964" duration="2351000" />
+      <workItem from="1666929245964" duration="4274000" />
     </task>
     <task id="LOCAL-00001" summary="text101 starter files">
       <created>1666931373942</created>
@@ -84,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666931373942</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="text changes in code">
+      <created>1666933028147</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666933028147</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +116,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="text101 starter files" />
-    <option name="LAST_COMMIT_MESSAGE" value="text101 starter files" />
+    <MESSAGE value="text changes in code" />
+    <option name="LAST_COMMIT_MESSAGE" value="text changes in code" />
   </component>
 </project>
